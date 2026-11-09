@@ -236,9 +236,12 @@ a {
 }
 
 .app-logo {
+  display: flex;
+  align-items: center;
   width: 3rem;
   height: auto;
   margin-bottom: 0;
+  fill: $color-quinary;
 }
 
 @include breakpoints.gt-small {
@@ -507,6 +510,10 @@ a {
       margin: 4rem 0 5rem;
       font-size: 10rem;
     }
+  }
+
+  .menu {
+    margin-bottom: 0;
   }
 }
 
