@@ -1,6 +1,6 @@
-# Website for TaskRoller App
+# Website for Task Shipper App
 
-Uses the Sinatra framework to display information about [TaskRoller](https://github.com/dsandstrom/task_roller)
+Uses the Sinatra framework to display information about [Task Shipper](https://github.com/dsandstrom/task_shipper)
 
 ## Local Setup
 
@@ -48,6 +48,6 @@ Starts puma and asset compilation scripts
 bin/dev
 ```
 
-[![RSpec](https://github.com/dsandstrom/web_task_roller/actions/workflows/rspec-analysis.yml/badge.svg?branch=main&event=push)](https://github.com/dsandstrom/web_task_roller/actions/workflows/rspec-analysis.yml)
+[![RSpec](https://github.com/dsandstrom/web_task_shipper/actions/workflows/rspec-analysis.yml/badge.svg?branch=main&event=push)](https://github.com/dsandstrom/web_task_shipper/actions/workflows/rspec-analysis.yml)
 
-[![Rubocop](https://github.com/dsandstrom/web_task_roller/actions/workflows/rubocop-analysis.yml/badge.svg?branch=main&event=push)](https://github.com/dsandstrom/web_task_roller/actions/workflows/rubocop-analysis.yml)
+[![Rubocop](https://github.com/dsandstrom/web_task_shipper/actions/workflows/rubocop-analysis.yml/badge.svg?branch=main&event=push)](https://github.com/dsandstrom/web_task_shipper/actions/workflows/rubocop-analysis.yml)

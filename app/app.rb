@@ -17,7 +17,7 @@ configure do
   set :server, "puma"
 end
 
-class WebTaskRoller < Sinatra::Application
+class WebTaskShipper < Sinatra::Application
   helpers LayoutHelper, FormsHelper
 
   get "/" do
