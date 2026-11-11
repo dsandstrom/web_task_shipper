@@ -1,8 +1,8 @@
 require "spec_helper"
 
-RSpec.describe WebTaskRoller do
+RSpec.describe WebTaskShipper do
   def app
-    WebTaskRoller
+    WebTaskShipper
   end
 
   describe "root" do

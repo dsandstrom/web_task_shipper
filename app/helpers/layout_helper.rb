@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 module LayoutHelper
-  MAIN_TITLE = "Task Roller App"
+  MAIN_TITLE = "Task Shipper App"
   MENU_LINKS = [["Features", "/features"], ["Workflows", "/workflows"],
                 ["About", "/about"]].freeze
 

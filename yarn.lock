@@ -1785,9 +1785,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"web_task_roller@workspace:.":
+"web_task_shipper@workspace:.":
   version: 0.0.0-use.local
-  resolution: "web_task_roller@workspace:."
+  resolution: "web_task_shipper@workspace:."
   dependencies:
     esbuild: "npm:^0.28.2"
     milligram: "npm:^1.4.1"
